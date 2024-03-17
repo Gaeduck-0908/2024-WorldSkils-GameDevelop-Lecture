@@ -43,3 +43,9 @@
   - 구현해놓고 빌드 실패 시 0점 처리
 - 생각보다 사소하지만 빼먹는게 많을 수도 있음 체크리스트 만드는 것을 추천
   - ex.씬 이동, 소리 관련, 애니메이션, 파티클, 충돌 판정, 치트키 등
+## 자료
+- [시행자료](https://github.com/Gaeduck-0908/2024-WorldSkils-GameDevelop-Lecture/blob/master/%EC%9E%90%EB%A3%8C/%5B%EC%8B%9C%ED%96%89%EC%9E%90%EB%A3%8C%5D%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C.hwp)
+- [공개과제](https://github.com/Gaeduck-0908/2024-WorldSkils-GameDevelop-Lecture/blob/master/%EC%9E%90%EB%A3%8C/%5B%EA%B3%B5%EA%B0%9C%EA%B3%BC%EC%A0%9C%5D%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C.pdf)
+- [강의 주차 정리](https://github.com/Gaeduck-0908/2024-WorldSkils-GameDevelop-Lecture/tree/master/%EC%9E%90%EB%A3%8C/%EA%B0%95%EC%9D%98)
+- [강의 소스](https://github.com/Gaeduck-0908/2024-WorldSkils-GameDevelop-Lecture/tree/master/%EC%9E%90%EB%A3%8C/src)
+- [강의 발표 자료](https://github.com/Gaeduck-0908/2024-WorldSkils-GameDevelop-Lecture/tree/master/%EC%9E%90%EB%A3%8C/Doc)
