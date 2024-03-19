@@ -1,0 +1,12 @@
+[씬구성]
+시작씬,게임씬,엔딩,로딩
+
+Intro - 영상,줄거리
+Title - 게임 제목 (Touch to Start)
+Loading - 각 씬 이동마다 (yield return waitforSeconds)
+GameStart - 메뉴?화면 - 게임시작,랭킹,게임종료
+GameMain - 게임 플레이 (1,2,3) - 중간 씬 관리 잘하기(상점)
+Ranking - 랭킹
+Ending - 엔딩
+
+
